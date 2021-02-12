@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9742e7a7-a5ea-4c0f-a461-dc6722da390c" name="Default Changelist" comment="Falta memoria 2">
+      <change afterPath="$PROJECT_DIR$/DS-42-03-PD/doc/e2/MemoriaE2.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jFXF0ypEIoreBeti2IU9cCcwSG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/DS-42-03-PD/test/e2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="e2" />
+      <recent name="e1" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Martin Vieites\GitHub\DS-42-03\DS-42-03-B1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ProyectoTest">
+    <configuration name="ElementoProyectoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DS-42-03-B1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="e2" />
+      <option name="MAIN_CLASS_NAME" value="e2.ElementoProyectoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EquipoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DS-42-03-B1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="e2" />
+      <option name="MAIN_CLASS_NAME" value="e2.EquipoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProyectoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DS-42-03-B1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="e2" />
+      <option name="MAIN_CLASS_NAME" value="e2.ProyectoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TermostatoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DS-42-03-B1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="e1" />
+      <option name="MAIN_CLASS_NAME" value="e1.TermostatoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TermostatoTest.changeMode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DS-42-03-B1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="e1" />
+      <option name="MAIN_CLASS_NAME" value="e1.TermostatoTest" />
+      <option name="METHOD_NAME" value="changeMode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TermostatoTest" />
+      <item itemvalue="JUnit.TermostatoTest.changeMode" />
+      <item itemvalue="JUnit.ElementoProyectoTest" />
+      <item itemvalue="JUnit.EquipoTest" />
+      <item itemvalue="JUnit.ProyectoTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProyectoTest" />
+        <item itemvalue="JUnit.EquipoTest" />
+        <item itemvalue="JUnit.ElementoProyectoTest" />
+        <item itemvalue="JUnit.TermostatoTest" />
+        <item itemvalue="JUnit.TermostatoTest.changeMode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9742e7a7-a5ea-4c0f-a461-dc6722da390c" name="Default Changelist" comment="" />
+      <created>1603400706359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603400706359</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Corrixida a estructura do respositorio">
+      <created>1603400866298</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603400866298</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Engadido exercicio 2">
+      <created>1606142788559</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606142788559</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Engadido exercicio 2">
+      <created>1606266220285</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606266220285</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Finalizado exercicio 1">
+      <created>1606332530823</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606332530823</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Comezado exercicio 3">
+      <created>1606348426360</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606348426360</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Rematados e2 e e3">
+      <created>1606508790070</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606508790070</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Rematados test e3">
+      <created>1606512756088</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606512756088</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Rematados test e3">
+      <created>1606512864963</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606512864963</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Rematado e4">
+      <created>1606517388617</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606517388617</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Empezando e1">
+      <created>1607962534692</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1607962534692</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Continuación e1">
+      <created>1608239408279</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1608239408279</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Continuación e1">
+      <created>1608246570654</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1608246570654</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Continuación e1">
+      <created>1608247959658</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1608247959658</updated>
+    </task>
+    <task id="LOCAL-00014" summary="e1 sin test">
+      <created>1608319342363</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1608319342363</updated>
+    </task>
+    <task id="LOCAL-00015" summary="e2 sin test">
+      <created>1608549834710</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1608549834710</updated>
+    </task>
+    <task id="LOCAL-00016" summary="e2 sin test">
+      <created>1608640830403</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1608640830403</updated>
+    </task>
+    <task id="LOCAL-00017" summary="e2 sin test">
+      <created>1608663754317</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1608663754317</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Falta memoria 2">
+      <created>1608677207386</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1608677207386</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Corrixida a estructura do respositorio" />
+    <MESSAGE value="Engadido exercicio 2" />
+    <MESSAGE value="Finalizado exercicio 1" />
+    <MESSAGE value="Comezado exercicio 3" />
+    <MESSAGE value="Rematados e2 e e3" />
+    <MESSAGE value="Rematados test e3" />
+    <MESSAGE value="Rematado e4" />
+    <MESSAGE value="Empezando e1" />
+    <MESSAGE value="Continuación e1" />
+    <MESSAGE value="e1 sin test" />
+    <MESSAGE value="e2 sin test" />
+    <MESSAGE value="Falta memoria 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Falta memoria 2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1606512675090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606437539543" />
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606512675090" />
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1608633040153">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.-10.1920.1040/-2048.803.1024.728@0.0.1920.1040" timestamp="1608514241150" />
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608550209514" />
+    <state x="2685" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606431149037" />
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608633040153" />
+    <state x="678" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1606141855099">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="678" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606141855099" />
+    <state x="537" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1608519210225">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="537" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608519210225" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606254986076">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606254986076" />
+    <state x="690" y="267" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1606434088165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606434088165" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1606255284476">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606255284476" />
+    <state width="1877" height="131" key="GridCell.Tab.0.bottom" timestamp="1608676878086">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="312" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-10.1920.1040/-2048.803.1024.728@0.0.1920.1040" timestamp="1608517498482" />
+    <state width="1877" height="195" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608551283183" />
+    <state width="1877" height="131" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608676878086" />
+    <state width="1877" height="131" key="GridCell.Tab.0.center" timestamp="1608676878086">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="312" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-10.1920.1040/-2048.803.1024.728@0.0.1920.1040" timestamp="1608517498481" />
+    <state width="1877" height="195" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608551283183" />
+    <state width="1877" height="131" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608676878086" />
+    <state width="1877" height="131" key="GridCell.Tab.0.left" timestamp="1608676878086">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="312" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-10.1920.1040/-2048.803.1024.728@0.0.1920.1040" timestamp="1608517498481" />
+    <state width="1877" height="195" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608551283182" />
+    <state width="1877" height="131" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608676878086" />
+    <state width="1877" height="131" key="GridCell.Tab.0.right" timestamp="1608676878086">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="312" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-10.1920.1040/-2048.803.1024.728@0.0.1920.1040" timestamp="1608517498481" />
+    <state width="1877" height="195" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608551283183" />
+    <state width="1877" height="131" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608676878086" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1606513020091">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606513020091" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1606513020090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606513020090" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1606513020090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606513020090" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1606513020090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606513020090" />
+    <state x="738" y="200" key="SettingsEditor" timestamp="1608486112125">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="738" y="200" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608486112125" />
+    <state x="738" y="200" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607957719934" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608677212278">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608549838525" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608677212278" />
+    <state x="776" y="298" key="chooseDestDirectoryDialog" timestamp="1608520322920">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="776" y="298" key="chooseDestDirectoryDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608520322920" />
+    <state x="776" y="298" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606348887759" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608677885041">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608549815822" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608677885041" />
+    <state x="731" y="318" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1608520322935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="318" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/1920.-10.1920.1040/-2048.803.1024.728@0.0.1920.1040" timestamp="1608517524366" />
+    <state x="731" y="318" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608520322935" />
+    <state x="731" y="318" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606350525275" />
+    <state x="505" y="256" width="909" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1605804649066">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="505" y="256" width="909" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1605804649066" />
+    <state x="953" y="0" width="974" height="1047" key="dock-window-1" timestamp="1606512675090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="953" y="0" width="974" height="1047" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1606512675090" />
+    <state x="755" y="267" key="refactoring.ChangeSignatureDialog" timestamp="1608234121718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="755" y="267" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608234121718" />
+    <state x="755" y="267" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607357687545" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1608661146606">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.-10.1920.1040/-2048.803.1024.728@0.0.1920.1040" timestamp="1608515914776" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1606433515199" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608661146606" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GitHub$characterTest.ic" NAME="characterTest Coverage Results" MODIFIED="1606512985527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>e1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/GitHub$ProyectoTest.ic" NAME="ProyectoTest Coverage Results" MODIFIED="1608676878061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>e2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/GitHub$GunfightTest.ic" NAME="GunfightTest Coverage Results" MODIFIED="1606512715051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>e3.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/GitHub$gameBoardTest.ic" NAME="gameBoardTest Coverage Results" MODIFIED="1606513000163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>e1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/GitHub$MatrixTest.ic" NAME="MatrixTest Coverage Results" MODIFIED="1606512930025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>e2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/GitHub$MatrixAdditionTest.ic" NAME="MatrixAdditionTest Coverage Results" MODIFIED="1606512939260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>e2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/GitHub$dieTest.ic" NAME="dieTest Coverage Results" MODIFIED="1606512993965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>e1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/GitHub$GunslingerTest.ic" NAME="GunslingerTest Coverage Results" MODIFIED="1606512693983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>e3.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/GitHub$TermostatoTest_changeMode.ic" NAME="TermostatoTest.changeMode Coverage Results" MODIFIED="1608665084439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>e1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/GitHub$gameBoard.ic" NAME="gameBoard Coverage Results" MODIFIED="1606407986882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>e1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/GitHub$EquipoTest.ic" NAME="EquipoTest Coverage Results" MODIFIED="1608676869146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>e2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/GitHub$ElementoProyectoTest.ic" NAME="ElementoProyectoTest Coverage Results" MODIFIED="1608676843795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>e2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/GitHub$gameBoardTest_war.ic" NAME="gameBoardTest.war Coverage Results" MODIFIED="1606408201871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>e1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/GitHub$TermostatoTest.ic" NAME="TermostatoTest Coverage Results" MODIFIED="1608676816381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>e1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/GitHub$squadTest.ic" NAME="squadTest Coverage Results" MODIFIED="1606513006301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>e1.*</FILTER>
+    </SUITE>
+  </component>
+</project>
